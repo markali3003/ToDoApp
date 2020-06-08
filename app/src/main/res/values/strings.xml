@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+
+    <string-array name="name">
+        <item >ayyoub</item>
+        <item >ayyoub</item>
+        <item >ayyoub</item>
+        <item >ayyoub</item>
+    </string-array>
+
+
+</resources>
